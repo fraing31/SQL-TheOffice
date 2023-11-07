@@ -1,5 +1,4 @@
 --Statements with Group by and order by
-
 SELECT *
 FROM EmployeeSalary
 
