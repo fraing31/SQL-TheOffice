@@ -1,5 +1,3 @@
---Create news tables
---CREATE TABLE ForeignKeyTable
 -- Aliasing
 SELECT FirstName + ' ' + LastName AS FullName 
 FROM SQLTutorial.dbo.EmployeeDemographics
